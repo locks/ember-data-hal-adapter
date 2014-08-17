@@ -12,6 +12,15 @@ It isn't exactly general at the moment, since I'm only using it in this one proj
 
 ## How
 
-Copy the files to your project, stick the needed requires and override what you must.
+### Bower
+
+* `bower install ember-data-hal-adapter`
+
+### Git
+
+* Clone repo with `git clone https://github.com/locks/ember-data-hal-adapter.git`
+* Install dependencies with `npm install && bower install`
+* Build the library with `broccoli build dist`
+* Use the version in `/dist` more suitable for your project
 
 [1]: http://tools.ietf.org/html/draft-kelly-json-hal-06
