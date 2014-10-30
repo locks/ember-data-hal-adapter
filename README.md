@@ -16,6 +16,10 @@ It isn't exactly general at the moment, since I'm only using it in this one proj
 
 * `bower install ember-data-hal-adapter`
 
+### Ember CLI
+
+* `npm install --save-dev ember-data-hal-adapter`
+
 ### Git
 
 * Clone repo with `git clone https://github.com/locks/ember-data-hal-adapter.git`
