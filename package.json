@@ -5,6 +5,9 @@
   "main": "hal_adapter.js",
   "dependencies": {
   },
+  "ember-addon": {
+    "main": "ember-addon-main.js"
+  },
   "devDependencies": {
     "broccoli-cli": "0.0.1",
     "broccoli-dist-es6-module": "^0.2.0",
@@ -18,7 +21,8 @@
     "url": "https://github.com/locks/ember-data-hal-adapter.git"
   },
   "keywords": [
-    "Ember",
+    "ember",
+    "ember-addon",
     "Data",
     "adapter",
     "HAL",
