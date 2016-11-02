@@ -9,9 +9,9 @@
     "main": "ember-addon-main.js"
   },
   "devDependencies": {
-    "broccoli-cli": "0.0.1",
+    "broccoli-cli": "1.0.0",
     "broccoli-dist-es6-module": "^0.2.0",
-    "broccoli": "^0.12.2"
+    "broccoli": "^0.16.9"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
